@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Trading Bot Simulator",
+  "description": "A web application that simulates stock trading with AI-powered analysis from Google's Gemini API. Users can select stocks, view price history, get trading recommendations, and manage a virtual portfolio.",
+  "requestFramePermissions": []
+}
